@@ -1,6 +1,6 @@
 # Jonathan Eis Benzon
 
-Software entrepreneur in Denmark. I run two companies, [Eggvelop](https://eggvelop.com) and [SLASHPLAY](https://slashplay.gg). Most of my time right now goes into Eggox.
+Software entrepreneur in Denmark. I run two companies, im a founder: [Eggvelop](https://eggvelop.com) and co-founder: [SLASHPLAY](https://slashplay.gg). Most of my time right now goes into Eggox.
 
 ## Eggox
 
